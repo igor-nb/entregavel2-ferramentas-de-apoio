@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 195, 255);
+}
+
+div {
+    font: 48px Arial, sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 2px black;
+}
+
+div#digite-um-numero {
+    padding-top: 115px;
+}
+
+div#input, div#digite-o-proximo, div#res1, div#res2 {
+    padding-top: 45px;
+}
+
+input {
+    font: 36px Arial, sans-serif;
+}
+
+input#num, input#num2 {
+    text-align: center;
+    width: 100px;
+}
+
+input#butao {
+    width: 160px;
+}
+
+input#butao2 {
+    width: 180px;
+}
